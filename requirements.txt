@@ -1,0 +1,16 @@
+eth-abi==2.1.1
+eth-account==0.5.6
+eth-hash==0.3.2
+eth-keyfile==0.5.1
+eth-keys==0.3.3
+eth-rlp==0.2.1
+eth-typing==2.2.2
+eth-utils==1.10.0
+ipfshttpclient==0.8.0a2
+json5==0.9.5
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+py-solc-x==1.1.1
+pyarrow==3.0.0
+pytest==6.2.3
+python-dotenv==0.19.2
+web3==5.25.0
